@@ -1,4 +1,4 @@
-# raspberrypi_finder
+# rRaspberry Pi Finder
 Find your Raspberry Pi board in your LAN.
 
 ## To run this script on Windows, follow these instructions:
@@ -9,6 +9,7 @@ pip3 install python-nmap
 https://npcap.org
 
 3) Install o gawk, grep using Scoop (https://scoop.sh/)
+
 scoop install gawk grep
 
 ## How to run? python rpi_finder.py [IP range]
