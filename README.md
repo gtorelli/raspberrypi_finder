@@ -8,9 +8,7 @@ pip3 install python-nmap
 2) Install npcap (nmap)
 https://npcap.org
 
-3) Install o gawk, grep using Scoop (https://scoop.sh/)
-
-scoop install gawk grep
+3) Install o gawk, grep using Scoop (https://scoop.sh/) -> scoop install gawk grep
 
 ## How to run? python rpi_finder.py [IP range]
 
