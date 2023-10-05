@@ -1,4 +1,4 @@
-# rRaspberry Pi Finder
+# Raspberry Pi Finder
 Find your Raspberry Pi board in your LAN.
 
 ## To run this script on Windows, follow these instructions:
