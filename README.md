@@ -11,6 +11,6 @@ https://npcap.org
 3) Install o gawk, grep using Scoop (https://scoop.sh/)
 scoop install gawk grep
 
-How to run? python rpi_finder.py <IP range> 
+How to run? python rpi_finder.py [IP range]
 
 Example: python rpi_finder.py 192.168.1.1/24
