@@ -1,5 +1,5 @@
 # raspberrypi_finder
-Find your Raspberry Pi board in yout LAN
+Find your Raspberry Pi board in your LAN.
 
 # To run this script on Windows, follow these instructions:
 1) Install python-nmap
